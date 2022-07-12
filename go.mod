@@ -2,7 +2,7 @@ module gokanjivg-demo
 
 go 1.18
 
-require github.com/make-42/gokanjivg v1.0.2
+require github.com/make-42/gokanjivg v1.0.3
 
 require (
 	github.com/PerformLine/go-stockutil v1.9.3 // indirect
